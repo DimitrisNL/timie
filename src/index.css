@@ -8,7 +8,7 @@ html {
 
 @media all and (max-width: 640px) {
   html {
-    font-size: 14px;
+    font-size: 2.6vw;
   }
 }
 
