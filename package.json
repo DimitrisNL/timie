@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "moment": "^2.21.0",
-    "moment-timezone": "^0.5.14",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
