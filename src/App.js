@@ -33,7 +33,7 @@ class App extends Component {
 
     setTimeout(() => {
       this.updateTimeZones();
-    }, 60000);
+    }, 30000);
   };
 
   render() {
